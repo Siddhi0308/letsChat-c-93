@@ -1,0 +1,19 @@
+h3,h4
+{
+  text-align: center;
+}
+
+.user_name
+{
+  width: 8px;
+  height: 4px;
+}
+
+body{
+ background-color: blanchedalmond;
+}
+
+.input{
+  width: fit-content;
+  height: min-content;
+}
